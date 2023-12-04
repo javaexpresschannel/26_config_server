@@ -1,1 +1,1 @@
-# 26_config_server
+config_server_ms
